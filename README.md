@@ -33,7 +33,7 @@ This framework allows the developers to deal with complex problems in the develo
 Product Owner  -Represents end customer. Defines what is valuable and prioritizes the backlog.	Scrum Team - self-organizing team that includes everyone involved with the design, development, test, and delivery of the finished product. The agile team’s goal is to deliver a quality product that meets the needs of the users.	Scrum Master - facilitates team meetings, removes team impediments, liaises with product owner to ensure the team remains on track.
 (Slide - Kanban Frameworks)
 
-2. Kanban Framework
+Kanban Framework
 Agile  teams are using Kanban Dashboards in order to track the User Stories and Tasks for each Sprint and for each team member.  Kanban  allows the development team to visualize their entire workflow rather than just viewing the outcome of every process. The development process is generally broken down into multiple problems and is managed using a task board. 
 (Slide - Jira Slack Trello Tools)
 There are some tools that can help teams with software development.The most popular are Jira,Trello,Slack
